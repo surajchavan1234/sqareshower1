@@ -1,4 +1,4 @@
-# sqareshower1
+# squareshower1
 this is my pratice project
 <br>
 author - suraj chavan
